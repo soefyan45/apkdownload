@@ -9,7 +9,7 @@ export default {
   head: {
     title: "Kuis Sambung Ayat Al-Qur'an",
     htmlAttrs: {
-      lang: 'en'
+      lang: 'id'
     },
     meta: [
       { charset: 'utf-8' },
